@@ -5,27 +5,34 @@ import { useRef } from "react";
 const items = [
   {
     id: 1,
+    title: "Shopper E-Commerce",
+    img: "https://img.freepik.com/free-vector/ecommerce-web-page-concept-illustration_114360-8204.jpg",
+    link: "https://github.com/RexMilton/Shopper",
+    desc: "Shopper is a full-stack ecommerce website designed to provide users with a simple shopping experience. It allows users to view the cart, browse products categorized into women, men, and kids sections, and provides authentication functionalities for login and signup.",
+  },
+  {
+    id: 2,
     title: "Resume Extraction",
     img: "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=400",
     link: "https://github.com/RexMilton/ResumeExtraction",
     desc: "The website enables users to submit, edit, and manage resumes. It utilizes Palm AI which is 90%, a machine learning component, to extract information from submitted resumes, providing users with a comprehensive platform for resume handling",
   },
   {
-    id: 2,
+    id: 3,
     title: "Sales Forecasting",
     img: "https://images.pexels.com/photos/187041/pexels-photo-187041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     link: "https://github.com/RexMilton/SalesForecasting",
     desc: "Engineered a platform that accepts CSV files, transmitting the dataset to a robust sales prediction model. The obtained predictions are 80% accurate and are displayed for the user through an intuitive interface.",
   },
   {
-    id: 3,
+    id: 4,
     title: "Online Land Registration",
     img: "https://images.pexels.com/photos/48148/document-agreement-documents-sign-48148.jpeg?auto=compress&cs=tinysrgb&w=400",
     link: "https://github.com/RexMilton",
     desc: "Created a website using JSP and Servlets that bridges the gap between 3 users which is buyers, sellers, and land registry officials. This platform streamlines communication and interaction, making the land registration process smoother for everyone involved.",
   },
   {
-    id: 4,
+    id: 5,
     title: "Smart Research Repository",
     img: "https://images.pexels.com/photos/1181772/pexels-photo-1181772.jpeg?auto=compress&cs=tinysrgb&w=400",
     link: "https://github.com/RexMilton/MiniProject",
